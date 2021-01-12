@@ -6,7 +6,7 @@ This paper has been accpeted by Conference on [Pacific Graphics 2017](http://www
 
 by Rang Nguyen, Brian Price, Scott Cohen, and Michael Brown. 
 
-![Figure](figures/cvpr2018-pipeline.png)
+![Figure](framework.png)
 ### Citation
 ```
 @inproceedings{nguyen2017group,
